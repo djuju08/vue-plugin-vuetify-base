@@ -1,4 +1,4 @@
-# vue-vuetify-extra
+# vue-plugin-vuetify-base
 
 ## Project setup
 ```
@@ -10,15 +10,20 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles as a library and minifies for production
 ```
 npm run build
+```
+#### Compiles as a library, minifies and create a tarball file
+```
+npm run build:pack
+```
+#### Build the demo page
+```
+npm run build:demo
 ```
 
 ### Lints and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
