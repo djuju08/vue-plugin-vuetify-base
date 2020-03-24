@@ -1,4 +1,5 @@
 # vue-plugin-vuetify-base
+[![BCH compliance](https://bettercodehub.com/edge/badge/djuju08/vue-plugin-vuetify-base?branch=master)](https://bettercodehub.com/)
 
 ## Project setup
 ```
