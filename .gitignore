@@ -2,6 +2,7 @@
 node_modules
 /dist
 /demo
+*.tgz
 
 # local env files
 .env.local
